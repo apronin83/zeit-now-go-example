@@ -324,7 +324,7 @@ func Index(w http.ResponseWriter) {
 				</style>
 		 </head>
 		 <body>
-				<h1>Image to ASCII</h1>
+				<h1>Hello Pronin - Image to ASCII</h1>
 				<div class="container">
 					 <div class="fields">
 							<div class="field"><label for="imgInput">Image</label><input class="js-input" type="text" id="imgInput" value="https://image-to-ascii.now.sh/assets/gopher.png"></div>
